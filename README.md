@@ -1,2 +1,2 @@
-# 19minuitesstories
-All design of 19minutesstories
+# 19MinutesStories
+Graphics of 19MinutesStories
